@@ -26,7 +26,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1793" y="-313"/>
+            <point key="canvasLocation" x="1655" y="-209"/>
         </scene>
         <!--Principal-->
         <scene sceneID="a1e-Cb-lvb">
@@ -72,7 +72,7 @@
                                     </constraints>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <segue destination="BYZ-38-t0r" kind="show" identifier="add_tarea" id="caT-XO-xJ2"/>
+                                    <segue destination="BYZ-38-t0r" kind="show" id="MC7-40-8Tf"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
