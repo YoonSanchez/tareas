@@ -12,6 +12,7 @@
 		FE4F14F71E007C3E000299F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE4F14F51E007C3E000299F8 /* Main.storyboard */; };
 		FE4F14F91E007C3E000299F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE4F14F81E007C3E000299F8 /* Assets.xcassets */; };
 		FE4F14FC1E007C3E000299F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE4F14FA1E007C3E000299F8 /* LaunchScreen.storyboard */; };
+		FE4F15041E008B69000299F8 /* principal_TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4F15031E008B69000299F8 /* principal_TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FE4F14F81E007C3E000299F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE4F14FB1E007C3E000299F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE4F14FD1E007C3E000299F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE4F15031E008B69000299F8 /* principal_TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = principal_TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FE4F14F81E007C3E000299F8 /* Assets.xcassets */,
 				FE4F14FA1E007C3E000299F8 /* LaunchScreen.storyboard */,
 				FE4F14FD1E007C3E000299F8 /* Info.plist */,
+				FE4F15031E008B69000299F8 /* principal_TableViewController.swift */,
 			);
 			path = lista_tareas;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			files = (
 				FE4F14F41E007C3E000299F8 /* ViewController.swift in Sources */,
 				FE4F14F21E007C3E000299F8 /* AppDelegate.swift in Sources */,
+				FE4F15041E008B69000299F8 /* principal_TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
