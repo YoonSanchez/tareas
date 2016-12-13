@@ -13,6 +13,7 @@
 		FE4F14F91E007C3E000299F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE4F14F81E007C3E000299F8 /* Assets.xcassets */; };
 		FE4F14FC1E007C3E000299F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE4F14FA1E007C3E000299F8 /* LaunchScreen.storyboard */; };
 		FE4F15041E008B69000299F8 /* principal_TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4F15031E008B69000299F8 /* principal_TableViewController.swift */; };
+		FE4F15061E00914A000299F8 /* mi_celda_view_cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE4F15051E00914A000299F8 /* mi_celda_view_cell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FE4F14FB1E007C3E000299F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE4F14FD1E007C3E000299F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FE4F15031E008B69000299F8 /* principal_TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = principal_TableViewController.swift; sourceTree = "<group>"; };
+		FE4F15051E00914A000299F8 /* mi_celda_view_cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mi_celda_view_cell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FE4F14FA1E007C3E000299F8 /* LaunchScreen.storyboard */,
 				FE4F14FD1E007C3E000299F8 /* Info.plist */,
 				FE4F15031E008B69000299F8 /* principal_TableViewController.swift */,
+				FE4F15051E00914A000299F8 /* mi_celda_view_cell.swift */,
 			);
 			path = lista_tareas;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				FE4F14F41E007C3E000299F8 /* ViewController.swift in Sources */,
 				FE4F14F21E007C3E000299F8 /* AppDelegate.swift in Sources */,
+				FE4F15061E00914A000299F8 /* mi_celda_view_cell.swift in Sources */,
 				FE4F15041E008B69000299F8 /* principal_TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
